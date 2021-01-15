@@ -15,7 +15,7 @@
 
 <br />
 
-### Hi! I'm Vaishnavi Udaya Kumar, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
+### Hi! I'm Vaishnavi, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
 
   
 <br />
@@ -23,15 +23,27 @@
   ### Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">LinkedIn</a> 💼
 - Chirping on <a href="https://twitter.com/vaishnavi_uk"> Twitter</a> 🐦
-- My culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
+- Showcasing my culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
 <br />
 <br />
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on my masters degree, specializing in Data Science and ML.
+
+<br />
+
+- 🌱 I’m currently learning:
+    * Math behind the ML
+    * To code better
+    
+    <br />
+
+- 👯 I’m looking to collaborate on:
+* Cool Data Science projects
+* Technical workshops
+
+
 
 <br />
 
