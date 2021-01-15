@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### **Hey there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <a href="https://discord.gg/JFHjnQwH">
@@ -15,9 +15,8 @@
 
 <br />
 
-Hi! I'm **Vaishnavi Udaya Kumar**, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
+##Hi! I'm **Vaishnavi Udaya Kumar**, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
