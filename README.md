@@ -32,9 +32,10 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
+<br />
 
+- 🤔 I’m looking for help with : Skills to build in Data Science Field. 
 
 <br />
 
@@ -56,6 +57,5 @@
   
   <br />
 
--  Ask me about 🤔
   
 #### Have a good day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
