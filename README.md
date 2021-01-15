@@ -22,7 +22,7 @@
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">LinkedIn</a> 💼
-- You can find my cooking receipes on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 💼
+- You can find my cooking receipes on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
 **Talking about Personal Stuffs:**
 
