@@ -15,7 +15,7 @@
 
 <br />
 
-## Hi! I'm **Vaishnavi Udaya Kumar**, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
+# Hi! I'm Vaishnavi Udaya Kumar, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
 
   
 <br />
