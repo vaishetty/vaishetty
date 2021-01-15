@@ -20,7 +20,7 @@
   
 <br />
 
-  ### Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+  ### Find me around the web 🌎: <a href="https://github.com/vaishetty"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">LinkedIn</a> 💼
 - Chirping on <a href="https://twitter.com/vaishnavi_uk"> Twitter</a> 🐦
 - Showcasing my culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
