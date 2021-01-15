@@ -53,7 +53,7 @@
 
 <br />
 
-- Pronouns: Her/she 👩
+- Pronouns: She/her 👩
 
 <br />
 
