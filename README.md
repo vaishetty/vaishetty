@@ -50,7 +50,7 @@
 
 - I enjoy:
     * Exploring the numerous hikes around the bay area 🏞 
-    * Cooking 🧑‍🍳
+    * Cooking [🧑‍🍳](https://www.instagram.com/kitchen.apprentice/)
     * Painting (It's fun) 🎨
     * Dancing 💃
   
