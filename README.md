@@ -35,8 +35,15 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+<br />
+
 - 😄 Pronouns: Her/she 👩
+
+<br />
+
 - ⚡ I enjoy: 
+  * Exploring the numerous hikes around the bay area 🏞 
   * Cooking 🧑‍🍳
   * Painting (It's fun) 🎨
   * Dancing 💃
