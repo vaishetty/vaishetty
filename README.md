@@ -47,7 +47,7 @@
 
 <br />
 
-- 🤔 I’m looking for help with : Skills to build in Data Science Field. 
+- 🤔 Help appreciated in: Learning more about Data Science in the industry.
 
 <br />
 
@@ -64,7 +64,7 @@
 - I enjoy:
     * Exploring the numerous hikes around the bay area 🏞 
     * Cooking [🧑‍🍳](https://www.instagram.com/kitchen.apprentice/)
-    * Painting (It's fun) 🎨
+    * Painting 🎨
     * Dancing 💃
   
   <br />
