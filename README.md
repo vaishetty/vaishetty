@@ -49,6 +49,7 @@
 - How to reach me? DM me on: 📫
     * [Twitter](https://twitter.com/vaishnavi_uk)
     * [Linkedin](https://www.linkedin.com/in/vaishnavi-udaya-kumar/)
+    * [Email](mailto:vaishetty47@gmail.com)
 
 <br />
 
