@@ -40,8 +40,8 @@
     <br />
 
 - 👯 I’m looking to collaborate on:
-* Cool Data Science projects
-* Technical workshops
+  * Cool Data Science projects
+  * Technical workshops
 
 
 
