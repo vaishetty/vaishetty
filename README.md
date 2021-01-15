@@ -62,6 +62,7 @@
     * Cooking [🧑‍🍳](https://www.instagram.com/kitchen.apprentice/)
     * Painting 🎨
     * Dancing 💃
+    * Yoga 🧘 
   
   <br />
   
