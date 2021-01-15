@@ -38,22 +38,21 @@
 
 <br />
 
-- How to reach me? DM me on: 📫 
+- How to reach me? DM me on: 📫
     * [Twitter](https://twitter.com/vaishnavi_uk)
     * [Linkedin](https://www.linkedin.com/in/vaishnavi-udaya-kumar/)
 
 <br />
 
--  Pronouns: Her/she 👩
+- Pronouns: Her/she 👩
 
 <br />
 
--  I enjoy: 
-
-  * Exploring the numerous hikes around the bay area 🏞 
-  * Cooking 🧑‍🍳
-  * Painting (It's fun) 🎨
-  * Dancing 💃
+- I enjoy:
+    * Exploring the numerous hikes around the bay area 🏞 
+    * Cooking 🧑‍🍳
+    * Painting (It's fun) 🎨
+    * Dancing 💃
   
   <br />
 
