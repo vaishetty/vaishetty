@@ -15,23 +15,17 @@
 
 <br />
 
-#### Hi! I'm Vaishnavi Udaya Kumar, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
+### Hi! I'm Vaishnavi Udaya Kumar, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
 
   
 <br />
 
-  #### Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+  ### Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">LinkedIn</a> 💼
 - Chirping on <a href="https://twitter.com/vaishnavi_uk"> Twitter</a> 🐦
 - My culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**  
 
