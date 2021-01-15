@@ -33,20 +33,30 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
 
 <br />
 
-- 😄 Pronouns: Her/she 👩
+- How to reach me? DM me on: 📫 
+    * [Twitter](https://twitter.com/vaishnavi_uk)
+    * [Linkedin](https://www.linkedin.com/in/vaishnavi-udaya-kumar/)
 
 <br />
 
-- ⚡ I enjoy: 
+-  Pronouns: Her/she 👩
+
+<br />
+
+-  I enjoy: 
+
   * Exploring the numerous hikes around the bay area 🏞 
   * Cooking 🧑‍🍳
   * Painting (It's fun) 🎨
   * Dancing 💃
   
+  <br />
+
+-  Ask me about 🤔
   
 #### Have a good day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
