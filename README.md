@@ -18,6 +18,8 @@
 ## Hi! I'm **Vaishnavi Udaya Kumar**, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
 
   
+<br />
+
   ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">LinkedIn</a> 💼
 - Chirping on <a href="https://twitter.com/vaishnavi_uk"> Twitter</a> 🐦
