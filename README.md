@@ -31,7 +31,7 @@
 <br />
 
 - 🌱 I’m currently learning:
-    * Math behind the ML
+    * Math behind the ML models.
     * To code better
     
 <br />
