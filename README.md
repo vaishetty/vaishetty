@@ -26,7 +26,8 @@
   
 <br />
 
-- 🔭 I’m currently working on my masters degree, specializing in Data Science and ML.
+- 🔭 I’m currently working on my masters degree, specializing in Data Science and ML. 
+- 👩‍💻 I'm currently looking for internship (Spring`22 & Summer`22) and full time opportunities (Summer`22). 
 
 <br />
 
