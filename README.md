@@ -24,11 +24,12 @@
 - Chirping on <a href="https://twitter.com/vaishnavi_uk"> Twitter</a> 🐦
 - Showcasing my culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
+  
 <br />
 
 - 🔭 I’m currently working towards graduating with my masters degree, specializing in Data Science and ML. 
 - 👩‍💻 I'm on the lookout for full time opportunities in Data Science.
-
+<br />
 <br />
 
 - 🌱 I’m currently learning:
