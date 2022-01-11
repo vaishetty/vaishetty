@@ -7,7 +7,7 @@
 <a href="https://twitter.com/vaishnavi_uk">
   <img align="left" alt="Vaishnavi Udaya Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vaishnavi-udaya-kumar/">
+<a href="https://www.linkedin.com/in/vaishetty/">
   <img align="left" alt="Vaishnavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -26,14 +26,14 @@
   
 <br />
 
-- 🔭 I’m currently working on my masters degree, specializing in Data Science and ML. 
-- 👩‍💻 I'm currently looking for internship (Spring`22 & Summer`22) and full time opportunities (Summer`22). 
+- 🔭 I’m currently working towards graduating with my masters degree, specializing in Data Science and ML. 
+- 👩‍💻 I'm on the lookout for full time opportunities in Data Science.
 
 <br />
 
 - 🌱 I’m currently learning:
     * Math behind the ML models.
-    * To code better
+    * To write cleaner and more efficient code.
     
 <br />
 
@@ -49,7 +49,7 @@
 
 - How to reach me? DM me on: 📫
     * [Twitter](https://twitter.com/vaishnavi_uk)
-    * [Linkedin](https://www.linkedin.com/in/vaishnavi-udaya-kumar/)
+    * [Linkedin](https://www.linkedin.com/in/vaishetty/)
     * [Email](mailto:vaishetty47@gmail.com)
 
 <br />
