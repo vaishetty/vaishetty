@@ -32,7 +32,7 @@
 <br />
 
 - 🌱 I’m currently learning:
-    * Math behind the ML models.
+    * About the math behind ML models.
     * To write cleaner and more efficient code.
     
 <br />
