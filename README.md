@@ -28,13 +28,11 @@
 <br />
 
 - 🔭 I’m all set to graduate with my masters degree, specializing in Data Science. 
-<br />
-- 👩‍💻 I'm on the lookout for full time opportunities in Data Science & Analytics.
+
 <br />
 
-- 🌱 I’m currently learning:
-    * About the math behind ML models.
-    * To write cleaner and more efficient code.
+- 👩‍💻 I'm on the lookout for full time opportunities in Data Science & Analytics.
+
     
 <br />
 
