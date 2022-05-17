@@ -25,7 +25,7 @@
 - Showcasing my culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
   
-
+<br />
 <br />
 
 - 👩‍💻 I'm actively on the lookout for full time opportunities in Data Science & Analytics.
