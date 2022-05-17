@@ -15,7 +15,7 @@
 
 <br />
 
-### Hi! I'm Vaishnavi, a Data Science Grad Student at [CSU East Bay](https://twitter.com/CalStateEastBay).
+### Hi! I'm Vaishnavi, a recent Data Science graduate student from [CSU East Bay](https://twitter.com/CalStateEastBay).
  
 <br />
 
@@ -25,13 +25,10 @@
 - Showcasing my culinary adventures on <a href="https://www.instagram.com/kitchen.apprentice/">Instagram</a> 🧑‍🍳
   
   
-<br />
-
-- 🔭 I’m all set to graduate with my masters degree, specializing in Data Science. 
 
 <br />
 
-- 👩‍💻 I'm on the lookout for full time opportunities in Data Science & Analytics.
+- 👩‍💻 I'm actively on the lookout for full time opportunities in Data Science & Analytics.
 
     
 <br />
