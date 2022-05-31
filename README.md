@@ -28,7 +28,7 @@
 <br />
 <br />
 
-- 👩‍💻 I'm actively on the lookout for full time opportunities in Data Science & Analytics.
+- 👩‍💻 I'm actively on the lookout for full time opportunities in Data Science & Analytics. You can find my resume [here](https://github.com/vaishetty/resume/blob/main/Vaishnavi_Udaya_Kumar_Resume.pdf).
 
     
 <br />
