@@ -2,12 +2,7 @@
 
 
 
-<a href="https://twitter.com/vaishnavi_uk">
-  <img align="left" alt="Vaishnavi Udaya Kumar | Twitter" width="22px" src="https://iconmonstr.com/twitter-1-svg/" />
-</a>
-<a href="https://www.linkedin.com/in/vaishetty/">
-  <img align="left" alt="Vaishnavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vaishetty.vaishetty)
 
