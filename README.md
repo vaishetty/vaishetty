@@ -7,7 +7,7 @@
 
 
 
-### Hi! I'm Vaishnavi, a recent Data Science graduate student from [CSU East Bay](https://twitter.com/CalStateEastBay).
+### Hi! I'm Vaishnavi, I work as a Business Intelligence Engineer at Amazon. 
  
 <br />
 
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-- 👩‍💻 I work as a Business Intelligence Engineer at Amazon.
+- 👩‍💻 I graduate with my master's degree specializing in Data Science from [CSU East Bay](https://twitter.com/CalStateEastBay).
     
 <br />
 
