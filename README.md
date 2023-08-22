@@ -21,7 +21,7 @@
 <br />
 
 - 🏙️ I currently live and work in the [San Francisco Bay Area](https://www.youtube.com/watch?v=cCN2Lu3h7Ds&ab_channel=RelaxationFilm4k)
-- 👩‍💻 I graduated with my master's degree specializing in Data Science from [CSU East Bay](https://twitter.com/CalStateEastBay).
+- 👩‍💻 I graduated with my master's degree specializing in Data Science from [CSU East Bay](https://t.co/6PjM3lPbuk).
 - 🏠 I grew up in the costal town of [Udupi in Karnataka](https://www.youtube.com/watch?v=p4Z2TzfLy_Q&ab_channel=GlenRebello-TheFPVFilms).    
 <br />
 
