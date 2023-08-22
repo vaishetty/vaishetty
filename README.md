@@ -4,9 +4,8 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=vaishetty.vaishetty)
 
-<br />
+
 
 ### Hi! I'm Vaishnavi, a recent Data Science graduate student from [CSU East Bay](https://twitter.com/CalStateEastBay).
  
