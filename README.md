@@ -20,8 +20,9 @@
 <br />
 <br />
 
-- 👩‍💻 I graduate with my master's degree specializing in Data Science from [CSU East Bay](https://twitter.com/CalStateEastBay).
-    
+- 🏙️ I currently live and work in the San Francisco Bay Area.
+- 👩‍💻 I graduated with my master's degree specializing in Data Science from [CSU East Bay](https://twitter.com/CalStateEastBay).
+- 🏠 I grew up in the costal town of Udupi in Karnataka.    
 <br />
 
 - How to reach me? DM me on: 📫
