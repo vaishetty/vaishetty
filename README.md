@@ -7,7 +7,7 @@
 
 
 
-### Hi! I'm Vaishnavi, I work as a Business Intelligence Engineer at Amazon. 
+### Hi, I'm Vaishnavi! I work as a Business Intelligence Engineer at Amazon. 
  
 <br />
 
